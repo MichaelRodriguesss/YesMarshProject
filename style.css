@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "outfit", sans-serif;
+    font-size: 18px;
+    background-color: hsl(217, 54%, 11%);
+    width: 720px;
+    margin: 0 auto;
+}
+
+#caixa {
+    margin: 0 auto;
+    height: 450px;
+    font-size: 18px;  
+    border: 10px solid hsl(216, 50%, 16%);
+    padding-top: 10px;
+    margin: 220px;
+    background: hsl(216, 50%, 16%);
+    border-radius: 10px;
+}
+
+.inline {
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+}
+
+.inline1 {
+    padding-left: 10px;
+    font-size: 13px;
+    color: rgb(4, 248, 195);
+}
+
+.inline2 {
+    padding-left: 70px;
+    font-size: 13px;
+    color: rgb(199, 196, 196);
+}
+
+#cores {
+    color: rgb(114, 112, 112);
+    padding: 10px 0 0 10px;
+    font-size: 15px;
+}
+
+.bordas-img {
+    width: 230px;
+    padding: 10px 30px 0px 15px;
+}
+
+.img-avatar {
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: #fff;
+}
+
+.avatar {
+    margin-top: -25px;
+    margin-left: 60px;
+    font-size: 13px;
+    color: rgb(134, 132, 132);
+}
+
+.strong {
+    color: #fff;
+}
+
+h4 {
+    color: white;
+    font-size: 1em;
+    padding: 15px 80px 0 10px;
+}
+
+
+
+
